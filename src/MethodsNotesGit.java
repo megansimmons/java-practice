@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class MethodsNotesGit {
 
     public static void main(String[] args) {
-        rollDie();
+//        rollDie();
         // add additional code to test the below methods
     }
 

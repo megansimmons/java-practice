@@ -101,7 +101,7 @@ Exercise 4
 
     }
 
-    public static int randomizerTwo(){
+/*    public static int randomizerTwo(){
         int two = (int) Math.round(Math.floor(Math.random() * 6 + 1));
         return two;
 
@@ -123,7 +123,7 @@ Exercise 4
 
         System.out.println(randomizerTwo());
 
-    }
+    }*/
 
 
     public static void main(String[] args) {
